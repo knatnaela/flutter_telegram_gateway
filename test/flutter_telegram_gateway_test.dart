@@ -4,8 +4,9 @@ import 'package:flutter_telegram_gateway/src/models/verification_response_model.
 import 'package:flutter_test/flutter_test.dart';
 
 void main() {
-  const String testToken = 'AAFBDAAAIsgU-Dq-0N-tbDA3CSodY4R1PkXGYFwLTl_uEg';
-  const String testPhoneNumber = '+251923759362';
+  const String testToken = '<YOUR_TOKEN>';
+  const String testPhoneNumber = '<PHONE_NUMBER>';
+  // Optional code
   const String testCode = '1234';
 
   // group test
