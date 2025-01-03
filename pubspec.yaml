@@ -1,7 +1,7 @@
 name: flutter_telegram_gateway
 description: "A Flutter package for easy interaction with the Telegram Gateway API."
-version: 0.0.1
-homepage: "https://github.com/Natnael-Adane/flutter_telegram_gateway"
+version: 0.0.2
+homepage: "https://github.com/knatnaela/flutter_telegram_gateway"
 
 environment:
   sdk: ^3.5.3
