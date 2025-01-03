@@ -30,7 +30,7 @@ Add the package to your `pubspec.yaml` file:
 
 ```yaml
 dependencies:
-  telegram_gateway_api: ^1.0.0  # Replace with the latest version
+  telegram_gateway_api: ^0.0.2  # Replace with the latest version
 ```
 
 Then, run:
